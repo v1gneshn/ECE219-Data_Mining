@@ -1,5 +1,4 @@
-# Project 1 ( End-to-End Pipeline to Classify News
-Articles):
+# Project 1 ( End-to-End Pipeline to Classify News Articles):
 The project consists of building an end-to-end pipeline to
 classify samples of news articles and involves the following ML components:
 1. Feature Extraction: Construction of TF-IDF representations of textual data;
@@ -28,7 +27,7 @@ images of five types of flowers.
 In Parts 1 and 2, the art of clustering text and images separately was practiced. However, the question arises: can both image and text be mapped to the same space? In the Pokémon world, the Pokedex catalogs appearances of Pokémon and various metadata. Our Pokedex will be constructed from the [image dataset link](https://www.kaggle.com/datasets/hlrhegemony/pokemon-image-dataset) and [metadata link](https://github.com/lgreski/pokemonData/blob/master/Pokemon.csv).
 
 
-# Project 3 - Recommender systems
+# Project 3 (Recommender systems)
 
 In this project, two types of collaborative filtering methods will be implemented and their performance analyzed:
 
@@ -36,9 +35,9 @@ In this project, two types of collaborative filtering methods will be implemente
 2. Model-based collaborative filtering: This technique estimates a joint model from all user data, enabling the generation of new recommendations without accessing the entire user base. It also allows for queries on a more compact model.
 Additionally, the Naive collaborative filtering technique will be explored and compared among the three methods.
 
-The project aims to build a recommendation system to predict movie ratings in the [provided dataset](https://drive.google.com/drive/folders/1_JF9plSjE3PAFBuSvUFRkDdftJWo1TFz).  Collaborative filtering techniques will be explored for predicting ratings, effectively understanding user preferences and behavior from historical data. This lays a foundational understanding of user behavior and item affinity. The focus will then shift to how ranking approaches enhance recommendation systems by not only identifying relevant items but also prioritizing them for optimal user satisfaction and engagement.
+The project aims to build a recommendation system to predict movie ratings in the [provided dataset](https://drive.google.com/drive/folders/1_JF9plSjE3PAFBuSvUFRkDdftJWo1TFz).  Collaborative filtering techniques will be explored for predicting ratings, and effectively understanding user preferences and behavior from historical data. This lays a foundational understanding of user behavior and item affinity. The focus will then shift to how ranking approaches enhance recommendation systems by not only identifying relevant items but also prioritizing them for optimal user satisfaction and engagement.
 
-# Project 4 - Regression Analysis and Twitter data analysis
+# Project 4 (Regression Analysis and Twitter Data Analysis)
 
 In part 1 of the project,  specific-to-regression feature engineering methods and model selection that
 jointly improve the performance of regression is explored with the help of the synthetic [diamonds dataset](https://drive.google.com/file/d/1Z1a99rlufNP6qItwVY9fPPXO61y4ok55/view).
